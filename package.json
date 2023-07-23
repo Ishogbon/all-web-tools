@@ -1,0 +1,49 @@
+{
+  "name": "all_tools_web",
+  "version": "1.0.0",
+  "description": "An Application with a web interface for creating all sort of tools and calculators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tools",
+    "calculators",
+    "tools",
+    "website",
+    "calculators",
+    "website"
+  ],
+  "author": "sid - Shogbon Idowu Daniel",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/adm-zip": "^0.5.0",
+    "@types/bcrypt": "^5.0.0",
+    "@types/cors": "^2.8.13",
+    "@types/express-session": "^1.17.7",
+    "@types/uuid": "^9.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.59.1",
+    "@typescript-eslint/parser": "^5.59.1",
+    "create-react-app": "^5.0.1",
+    "eslint": "^8.39.0",
+    "eslint-config-standard-with-typescript": "^34.0.1",
+    "eslint-config-xo": "^0.43.1",
+    "eslint-config-xo-typescript": "^0.57.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express-session": "^1.17.3",
+    "mathjs": "^11.8.0",
+    "mongoose": "^7.1.0",
+    "mongoose-unique-validator": "^4.0.0",
+    "node-unrar-js": "^2.0.0",
+    "typescript": "^5.0.4",
+    "uuid": "^9.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+const _error_state = 'ERR';
